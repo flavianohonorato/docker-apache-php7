@@ -12,6 +12,7 @@ RUN apt-get update && \
       libapache2-mod-php \
       php-apcu \
       php-apcu-bc \
+      php-intl \
       php-gd \
       php-json \
       php-ldap \
